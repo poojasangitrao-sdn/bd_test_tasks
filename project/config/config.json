@@ -1,0 +1,11 @@
+{
+	"development":{
+		"PORT":3000,
+		"MANGODB_URI":"mongodb://localhost:27017/mean"
+	},
+
+	"production":{
+		"PORT":80,
+		"MANGODB_URI":"mongodb://xxxxxx/DB_Name"
+	}
+}

@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\angular-app",
+    "\\angular-app\\src\\app",
+    "\\node-api"
   ],
-  "SelectedNode": "\\server.js",
+  "SelectedNode": "\\angular-app\\proxy.conf.json",
   "PreviewInSolutionExplorer": false
 }
